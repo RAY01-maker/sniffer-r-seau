@@ -6,7 +6,7 @@ Ce projet est un sniffer réseau en Python permettant de capturer le trafic, d'e
 
 ## Installation
 ```bash
-git clone <lien-du-repo-github>
+git clone < https://github.com/RAY01-maker/sniffer-r-seau.git>
 cd sniffer-reseau
 pip install -r requirements.txt
 ```
